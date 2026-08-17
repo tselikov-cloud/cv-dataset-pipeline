@@ -1,0 +1,6 @@
+outs:
+- md5: 0a6985a54f3d89b6321ddabb0f46b492.dir
+  size: 218849861
+  nfiles: 4207
+  hash: md5
+  path: uav-raw
